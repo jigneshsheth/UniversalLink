@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2G6RH42E35.com.firebaseapp.sheth",
+                "paths": [ "/", "*" ]
+            }
+        ]
+    }
+}
